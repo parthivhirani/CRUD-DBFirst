@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SPDemoStoreContainer" CdmEntityContainer="SampleDBEntities3">
+    <FunctionImportMapping FunctionImportName="addTwoNumbers" FunctionName="SPDemo.Store.addTwoNumbers" />
+    <FunctionImportMapping FunctionImportName="getGetEmployee" FunctionName="SPDemo.Store.getGetEmployee">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SPDemo.getGetEmployee_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="EmailID" ColumnName="EmailID" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="CITY" ColumnName="CITY" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

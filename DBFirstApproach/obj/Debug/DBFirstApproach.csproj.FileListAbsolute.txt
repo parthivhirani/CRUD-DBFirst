@@ -1,0 +1,12 @@
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\bin\Debug\DBFirstApproach.exe.config
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\bin\Debug\DBFirstApproach.exe
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\bin\Debug\DBFirstApproach.pdb
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.csproj.AssemblyReference.cache
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.exe
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.pdb
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.dll
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.xml
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\parthiv\source\repos\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.csproj.CopyComplete
